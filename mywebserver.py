@@ -6,7 +6,11 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Welcome</h1>
+<h1>Speech recognition</h1>
+<h1>Face recognition</h1>
+<h1>Computer vision</h1>
+<h1>Virtual reality</h1>
+<h1>Optical character recognition<h1>
 </body>
 </html>
 """
